@@ -67,4 +67,3 @@ insert_query = f"""
 cur.execute(insert_query)
 
 conn.commit()
-

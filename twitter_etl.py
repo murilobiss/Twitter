@@ -6,7 +6,6 @@ import json
 from datetime import datetime
 import boto3
 
-
 def run_twitter_etl():
     access_key = 'w1560SVcH0OBa9SIS93B4AbqS'
     access_secret = 'c9DY4Z7EYTMmncBBZp4bIZzBbDhO14Q7jNh0QFhNXDWEQ1fvC0'
